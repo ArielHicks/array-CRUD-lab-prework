@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ['yikes', 'one', 'too', 'many']
+  ['am', 'one', 'too', 'many']
 end
 
 def add_element_to_end_of_array(array, element)
@@ -24,6 +24,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   ["am"]
+  return array
 end
 
 def retrieve_first_element_from_array(array)
